@@ -1,6 +1,6 @@
 # Mobile-Health-Care-Management-System
 
-Welcome to the Mobile Healthcare Management System! This software is designed to help patients, doctors, and pharmacists manage medication and appointments, and keep track of patient records.
+Welcome to the Mobile Healthcare Management System! This project paln how asoftware could be designed to help patients, doctors, and pharmacists manage medication and appointments, and keep track of patient records.
 
 # Features
 
